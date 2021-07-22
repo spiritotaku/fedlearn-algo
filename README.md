@@ -67,7 +67,7 @@ According to the data partition differences, existing FL algorithms can be mainl
 ## Documentation
 * [**Technical Report**](docs/reports/2107.04129.pdf)
 
-* [**API Documentation**](docs/api/build/html/index.html)
+* [**API Documentation**](https://spiritotaku.github.io/fedlearn-algo/docs/api/build/html/index.html)
 
 ## License
 The distribution of FedLearn-algo in this repository is under [**Apache 2.0 license**](LICENSE). 
